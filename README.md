@@ -42,6 +42,10 @@ All images are accessible from http://tjhorner.com/codeday-assets/[filenamehere]
 
 [Adobe Photoshop File](http://tjhorner.com/codeday-assets/codeday_poster.psd)
 
+![codeday_poster_material.png](http://tjhorner.com/codeday-assets/codeday_poster_material.png)
+
+[Adobe Photoshop File](http://tjhorner.com/codeday-assets/codeday_poster_material.psd)
+
 ### Flyers
 
 [CodeDayFlyerCompressed.pdf](http://tjhorner.com/codeday-assets/CodeDayFlyerCompressed.pdf)
